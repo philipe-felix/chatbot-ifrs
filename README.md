@@ -15,11 +15,11 @@ Backend em FastAPI para gerenciamento automático de atendimento via WhatsApp, d
    ```bash
    git clone [https://github.com/philipe-felix/chatbot-ifrs.git](https://github.com/philipe-felix/chatbot-ifrs.git)
 
-Acesse a pasta do projeto:
-
+2. Acesse a pasta do projeto: 
 Bash
 cd chatbot-ifrs
-Crie e ative um ambiente virtual:
+
+3. Crie e ative um ambiente virtual:
 
 Bash
 python -m venv venv
@@ -49,3 +49,4 @@ Inicie o servidor:
 
 Bash
 python -m uvicorn backend_chatbot_ifrs_whatsapp:app --reload
+Acesse a documentação interativa para testar as rotas da API em: http://localhost:8000/docs
