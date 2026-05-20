@@ -13,4 +13,4 @@ Backend em FastAPI para gerenciamento automático de atendimento via WhatsApp, d
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/philipe-felix/chatbot-ifrs.git]
+   git clone [https://github.com/philipe-felix/chatbot-ifrs.git](https://github.com/philipe-felix/chatbot-ifrs.git)
